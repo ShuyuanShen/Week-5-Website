@@ -1,0 +1,9 @@
+---
+title: "Welcome"
+---
+
+Replace this sample introduction with two or three sentences about yourself and your interests.
+
+## My work
+
+Read about my [course project](projects.qmd), or learn more [about me](about.qmd).

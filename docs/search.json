@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Replace this text with your academic or professional interests."
+  },
+  {
+    "objectID": "about.html#my-interests",
+    "href": "about.html#my-interests",
+    "title": "About",
+    "section": "",
+    "text": "Replace this text with your academic or professional interests."
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nDescribe selected experiences that help a visitor understand your work. Choose what personal information you want to share."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\nIf appropriate, add a professional contact route. A home address or private telephone number is unnecessary."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Replace the examples below with work you can explain.\n\n\nHow did life expectancy vary across countries in 2007?\n\n\n\nThe Gapminder teaching extract contains country observations from 1952 to 2007. We filter to 2007 and compare country values.\n\n\n\n\n\n\nCountries in 2007 show an overall positive association between GDP per person and life expectancy.\n\n\nSource: Gapminder teaching extract. This example chart is supplied from Week 3. Replace it with your own work when ready.\n\n\n\nWrite a sentence describing a pattern and a sentence stating a relevant limitation. Country averages do not describe every individual."
+  },
+  {
+    "objectID": "projects.html#a-course-project",
+    "href": "projects.html#a-course-project",
+    "title": "Projects",
+    "section": "",
+    "text": "Replace the examples below with work you can explain.\n\n\nHow did life expectancy vary across countries in 2007?\n\n\n\nThe Gapminder teaching extract contains country observations from 1952 to 2007. We filter to 2007 and compare country values.\n\n\n\n\n\n\nCountries in 2007 show an overall positive association between GDP per person and life expectancy.\n\n\nSource: Gapminder teaching extract. This example chart is supplied from Week 3. Replace it with your own work when ready.\n\n\n\nWrite a sentence describing a pattern and a sentence stating a relevant limitation. Country averages do not describe every individual."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Replace this sample introduction with two or three sentences about yourself and your interests."
+  },
+  {
+    "objectID": "index.html#my-work",
+    "href": "index.html#my-work",
+    "title": "Welcome",
+    "section": "My work",
+    "text": "My work\nRead about my course project, or learn more about me."
+  }
+]
