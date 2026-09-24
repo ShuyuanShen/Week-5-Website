@@ -1,4 +1,4 @@
-# Quarto personal website starter
+# Quarto personal website starter --- Yeah
 1. Open Website.Rproj in RStudio.
 2. Replace the sample text in index.qmd, about.qmd, and projects.qmd.
 3. In the project Terminal run: quarto preview
